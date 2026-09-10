@@ -8,7 +8,7 @@ const SignUp: React.FC = () => {
         <input type="text" placeholder="Username" />
         <input type="email" placeholder="Email" />
         <input type="password" placeholder="Password" />
-        <button type="submit">Sign Up</button>
+        <button type="submit">Sign Up Form</button>
       </form>
     </div>
   );
